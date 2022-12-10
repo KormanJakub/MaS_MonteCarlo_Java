@@ -1,2 +1,2 @@
-# MaS_MonteCarlo_Java
-Monte Carlo v jazyku Java
+# Monte Carlo
+Vypracované zadania v jazyku Java.
